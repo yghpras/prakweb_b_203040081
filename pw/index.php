@@ -1,9 +1,3 @@
-<?php 
-// Abizar Valentino Fachri
-// 203040086
-// Shift Kamis 08.00 - 09.00
-?>
-
 <?php
     require 'php/functions.php';
     if(isset($_GET['cari'])) {
@@ -26,14 +20,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Latihan4a_203040086</title>
-    <link rel="stylesheet" href="css/style.css">
-    <style>
-
-        body {
-            background-image: url(../assets/img/PDI_Perjuangan.png);
-        }
-
-    </style>
+    <link rel="stylesheet" href="/style.css">
+   
 </head>
 <body>
     <div class="container">

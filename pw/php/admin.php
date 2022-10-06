@@ -32,7 +32,7 @@ if (!isset($_SESSION["username"]))
     <style>
 
         body {
-            background-color: grey;
+            background-color: white
         }
 
     </style>
@@ -90,11 +90,3 @@ if (!isset($_SESSION["username"]))
     </div>
 </body>
 </html>
-
-
-                <!-- <th>Name</th>
-                <th>Description</th>
-                <th>Detail</th>
-                <th>Price</th>
-                <th>StokItem</th>
-                <th>Picture</th> -->
