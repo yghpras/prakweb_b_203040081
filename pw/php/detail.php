@@ -14,7 +14,7 @@ $itemdota = query("SELECT * FROM itemdota WHERE id = $id")[0];
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Latihan4c_203040081</title>
+    <title>Buku</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
