@@ -36,7 +36,7 @@ if (!isset($_SESSION["username"]))
         }
 
     </style>
-    <title>Latihan5a_203040081</title>
+    <title>Buku</title>
 </head>
 <body>
     <div class="add">
