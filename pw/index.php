@@ -19,7 +19,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Latihan4a_203040086</title>
+    <title>Buku</title>
     <link rel="stylesheet" href="/style.css">
    
 </head>
